@@ -1,0 +1,6 @@
+
+UnrealPak 4.22 - https://github.com/zDestinate/INS_Sandstorm/releases/tag/1.0.0
+4.22 is chosen for Remnant although any unreal engine version should be compatible if you happen to use for other games,
+just replace the files in Resources/UnrealPak with the version of unreal engine UnrealPak that you require.
+
+Asset Registry Helper - https://modbydaylight.com/Development/Resources/
